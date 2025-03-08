@@ -23,3 +23,7 @@ This project enables **live location sharing** on an interactive map using **Soc
 3. Locations are displayed using **Leaflet.js** with custom markers.
 4. Users can see other active users on the map.
 
+---
+![Gif](https://i.gifer.com/9C4G.gif)
+
+
