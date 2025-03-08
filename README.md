@@ -1,4 +1,5 @@
 # 🌍 Real-Time Location Tracking Web App
+![Project Preview]()
 
 This project enables **live location sharing** on an interactive map using **Socket.io** and **Leaflet.js**. Multiple users can view and track each other’s locations in real time. 🚀
 
